@@ -1,2 +1,3 @@
-# 100-days-of-ML-code
-A repository dedicated to the #100DaysOfMLCode challenge
+# 100 Days of ML Code
+
+- Day 1: Linear Regression
