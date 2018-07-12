@@ -5,3 +5,4 @@
 - Day 3: Polynomial Regression
 - Day 4: Logistic Regression
 - Day 5: Basic Artificial Neural Network
+- Day 6: Support Vector Regression
