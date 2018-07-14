@@ -7,3 +7,4 @@
 - Day 5: Basic Artificial Neural Network
 - Day 6: Support Vector Regression
 - Day 7: ANN using JavaScript
+- Day 8: Let's build a simple Neural Net! (Article)
