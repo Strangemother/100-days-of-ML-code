@@ -8,3 +8,5 @@
 - Day 6: Support Vector Regression
 - Day 7: ANN using JavaScript
 - Day 8: Let's build a simple Neural Net! (Article)
+- Day 9: List of AI and Data Science resources (Blog)
+- Day 10: Hello TensorFlow 
