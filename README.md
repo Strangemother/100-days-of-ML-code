@@ -10,3 +10,5 @@
 - Day 8: Let's build a simple Neural Net! (Article)
 - Day 9: List of AI and Data Science resources (Blog)
 - Day 10: Hello TensorFlow 
+- Day 11: K Nearest Neighbor
+- Day 12: Support Vector Machine
