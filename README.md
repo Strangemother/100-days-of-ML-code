@@ -12,3 +12,5 @@
 - Day 10: Hello TensorFlow 
 - Day 11: K Nearest Neighbor
 - Day 12: Support Vector Machine
+- Day 13: Decision Tree Classification
+- Day 14: Random Forest Classification
