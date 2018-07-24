@@ -14,3 +14,7 @@
 - Day 12: Support Vector Machine
 - Day 13: Decision Tree Classification
 - Day 14: Random Forest Classification
+- Day 15: Decision Tree Regression
+- Day 16: Random Tree Regression
+- Day 17: Naive Bayes
+- Day 18: K-Means Clustering
